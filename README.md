@@ -1,0 +1,2 @@
+# Google-Colab
+Latihan pertama
